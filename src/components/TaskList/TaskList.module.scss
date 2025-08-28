@@ -1,0 +1,24 @@
+.list {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 70px;
+}
+.item{
+    background-color: rgba(255, 196, 0, 0.491);
+    width: 300px;
+    border-radius: 30px;
+    padding-bottom: 15px;
+}
+.text{
+    color: rgb(0, 0, 0);
+}
+
+.btn{
+    background-color: rgba(32, 191, 219, 0.719);
+    border: none;
+    border-radius: 10px 5px;
+    padding: 10px 15px;
+    color: white;
+}
